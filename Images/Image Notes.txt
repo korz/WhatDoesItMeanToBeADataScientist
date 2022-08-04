@@ -1,0 +1,56 @@
+C:\Talks\WhatDoesItMeanToBeADataScientist\Images
+
+1_mgXvzNcwfpnBawI6XTkVRg.png
+https://towardsdatascience.com/introduction-to-statistics-e9d72d818745
+
+
+extract-data-from-pdf.jpg
+https://docparser.com/blog/extract-data-from-pdf/
+
+Structured vs Unstructured.png
+https://learn.g2.com/structured-vs-unstructured-data
+
+IrisDataset.png
+https://www.kaggle.com/akashsri99/deep-learning-iris-dataset-keras
+
+XOR-gate-truth-table.jpg
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj_zp_Gtp_lAhUnAGMBHfNDA-gQjhx6BAgBEAI&url=https%3A%2F%2Ffromreadingtable.com%2Fexclusive-or-gate-xor-gate%2F&psig=AOvVaw33m2ek1hgu2lFBTLpeA_x5&ust=1571268752874369
+
+What Computer Sees.png
+https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html?utm_content=buffer640a1&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer
+
+iris-machinelearning.png
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjmsJOsuZ_lAhW8GTQIHR5kBfQQjhx6BAgBEAI&url=http%3A%2F%2Fwww.lac.inpe.br%2F~rafael.santos%2FDocs%2FCAP394%2FWholeStory-Iris.html&psig=AOvVaw3kNuBruI3G_HxsV6mIbSPa&ust=1571269544506567
+
+CodeCogsEqn.gif
+My formula in LaTeX (https://www.codecogs.com/latex/eqneditor.php)
+n_{value} = \frac{d_{value} - d_{min}}{d_{max} - d_{min}}
+
+CodeCogsEqn2.gif
+My formula in LaTeX (https://www.codecogs.com/latex/eqneditor.php)
+\\*
+
+d_{value} = denormalized\_value\\*
+d_{min} = denormalized\_min\\*
+d_{max} = denormalized\_max\\*
+
+n_{value} = normalized\_value\\*
+n_{min} = normalized\_min\\*
+n_{max} = normalized\_max
+
+
+midwestdispatch_tap_01.29.18_136169151_2400.jpg
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiW0IjJ45_lAhVhg-AKHXEkAqIQjhx6BAgBEAI&url=https%3A%2F%2Fwww.nrdc.org%2Fstories%2Fcan-great-lakes-become-fishable-drinkable-and-swimmable-again&psig=AOvVaw0EckR8fkbu16saQRidmr32&ust=1571280866323828
+
+File Icon - x.png
+https://www.iconfinder.com/iconsets/document-file-types
+
+4-Vs-of-big-data.jpg
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwji8OnV65_lAhUFQ6wKHeWGA9EQjhx6BAgBEAI&url=https%3A%2F%2Fwww.ibmbigdatahub.com%2Finfographic%2Ffour-vs-big-data&psig=AOvVaw2wEptWXfw2bdWhOin0tC2j&ust=1571283055261924
+
+pca.png
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGj8OY-p_lAhUJna0KHbvQAy8Qjhx6BAgBEAI&url=https%3A%2F%2Ftowardsdatascience.com%2Fprincipal-component-analysis-pca-101-using-r-361f4c53a9ff&psig=AOvVaw17KMJX_coD6Ll_EHuemC5_&ust=1571286928177546
+
+Ensemble.png
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi-tYem-p_lAhUDXqwKHSJpAnsQjhx6BAgBEAI&url=https%3A%2F%2Ftowardsdatascience.com%2Fensemble-learning-using-scikit-learn-85c4531ff86a&psig=AOvVaw1Qb7fSCUebYVeESQjzSaX6&ust=1571286975962561
+

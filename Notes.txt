@@ -1,0 +1,98 @@
+Definitions
+	artificial intelligence (Google Define)
+		the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+
+		an example of AI that isn't ML is searching such as heuristics or A* pathing
+
+	Machine learning (https://en.wikipedia.org/wiki/Machine_learning)
+		Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead.
+
+	deep learning (https://en.wikipedia.org/wiki/Deep_learning)
+		Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on artificial neural networks.
+
+	Big Data (https://en.wikipedia.org/wiki/Big_data)
+		"Big data" is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software.
+
+	Data Science (https://en.wikipedia.org/wiki/Data_science)
+		Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
+
+		multi-disciplinary: programming, math, machine learning
+		scientific methods
+		processes
+		algorithms
+		extract knowledge and insights
+		structured and unstructured
+
+	heuristic (Google Define)
+		enabling a person to discover or learn something for themselves.
+
+Roles
+	Data Scientist
+
+	Machine Learning Engineer
+
+	Data Engineer
+
+	Data Architect
+		https://en.wikipedia.org/wiki/Data_architecture
+
+	DevOps
+
+	Programmer
+
+
+	Computer Scientist
+		use technology to solve problems. They write software to make computers do new things or accomplish tasks more efficiently. 
+		(https://www.ziprecruiter.com/e/What-Does-a-Computer-Scientist-Do)
+
+		developing new products or solve practical computing problems. conducting research involving experimentation and modelling. working as part of a research team with programmers, IT professionals, and mechanical, electrical or software engineers to solve problems and create new products.
+		(https://targetjobs.co.uk/careers-advice/job-descriptions/454127-computer-scientist-job-description)
+
+	Programmer (Google Define)
+		a person who writes computer programs.
+
+	Software Engineer
+		applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of computer software. (https://en.wikipedia.org/wiki/Software_engineer)
+
+	Software Architect
+		Architecture has to do with how the major blocks of something fit together and what the whole looks like, vs how the individual blocks get built (the engineers' job).(https://www.quora.com/What-is-the-difference-between-a-software-architect-and-a-software-engineer)
+
+		Software architect - this person deals with the high level blocks. Connectivity between systems, choosing the best technologies for the systems themselves, and mapping business requirements into engineering requirements.
+		(https://www.quora.com/What-is-the-difference-between-a-software-architect-and-a-software-engineer)
+
+
+	"Software Engineer, Software Developer, Computer Programmer, Software Architect are all interchangeable depending on the company or the person." (https://www.careervillage.org/questions/1929/whats-the-difference-between-a-computer-programmer-and-a-software-engineer)
+
+	"If a company calls their developers Software Engineers, they'll use terms like 'Software Engineer 2,' 'Lead Software Engineer,' 'Principal Software Engineer' to distinguish employees by rank instead of having another 'Computer Programmer' role." (https://www.careervillage.org/questions/1929/whats-the-difference-between-a-computer-programmer-and-a-software-engineer)
+
+To Add
+	Workflow of process
+	XOR Neural Network
+
+	Focus a lot on the process: preparing data, seperating ML problems from programming ones, define the process, deal with a lot of variance in your data
+
+	My work: United Shore and Intvo
+
+	Everything from the original
+
+
+Links
+	IRIS Dataset Fields: http://rstudio-pubs-static.s3.amazonaws.com/324830_8985f6dac8d34633b6cf23a92ff3e64c.html
+
+	Online LaTeX Formatter: https://www.codecogs.com/latex/eqneditor.php
+
+	Turn Off Line Jumps in Visio: https://support.office.com/en-us/article/add-or-remove-connector-line-jumps-1a5516db-0212-4352-90dd-fc9cfd4018ed
+
+	Callouts in Visio: https://www.microsoftpressstore.com/articles/article.aspx?p=2224052
+
+	Iris in Keras: https://www.kaggle.com/akashsri99/deep-learning-iris-dataset-keras
+
+	Data Wrangling: https://en.wikipedia.org/wiki/Data_wrangling
+
+	Data Architecture: https://en.wikipedia.org/wiki/Data_architecture
+
+	AWS Data Lake: https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
+
+	AWS Data Lake: https://aws.amazon.com/big-data/datalakes-and-analytics/
+
+	
